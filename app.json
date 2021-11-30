@@ -32,6 +32,7 @@
             "value": "https://raw.githubusercontent.com/grapefruitmandarin/grape/master/etc/StoreFiles"
         }
     },
-    "repository": "",
-    "stack": "container"
+    "website": "https://github.com/keithrandall/fruit",
+    "repository": "https://github.com/keithrandall/fruit",
+    "stack": "container"}
 }
