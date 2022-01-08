@@ -32,7 +32,6 @@
             "value": "https://raw.githubusercontent.com/keithrandall/fruit/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/keithrandall/fruit",
-    "repository": "https://github.com/keithrandall/fruit",
-    "stack": "container"}
+    "repository": "",
+    "stack": "container"
 }
