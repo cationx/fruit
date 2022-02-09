@@ -1,6 +1,6 @@
 {
-    "name": "grape",
-    "description": "grape",
+    "name": "fruit",
+    "description": "fruit",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
